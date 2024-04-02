@@ -69,8 +69,8 @@ div.speaker .details .affiliation {
 
 .page-header {
     background-image: url(/img/AIPAD_page.png);
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     position: relative;
 }
 
@@ -87,7 +87,7 @@ div.speaker .details .affiliation {
 .page-header a, .page-header h1, .page-header h2 {
    color: white;
    position: relative;
-   z-index : 10;
+   z-index : 3;
 }
 
 .project-tagline {
