@@ -74,6 +74,20 @@ div.speaker .details .affiliation {
     position: relative;
 }
 
+@media only screen and (max-width: 768px) {
+    .page-header {
+        background-size: contain;
+    }
+}
+
+@media screen and (min-width: 1024) {
+    .page-header{
+        background-size: 100%;
+        background-position: center;
+    }
+    
+}
+
 .page-header .overlay {
    position: absolute;
    top: 0;
