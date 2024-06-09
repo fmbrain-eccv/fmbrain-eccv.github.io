@@ -1,49 +1,54 @@
-title: AIPAD Workshop
-description: AIPAD Workshop at MICCAI 2024
+title: FFBRAIN Workshop
+description: FFBRAIN Workshop at ECCV 2024
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 workshop:
-  name: "AIPAD: AI in Pancreatic Disease Detection and Diagnosis"
-  short: AIPAD
-  host: "MICCAI 2024<br>Marrakesh, Morocco<br>October 6-10, 2024 (TBD)"
-  submission_link: https://cmt3.research.microsoft.com/AIPAD2024
+  name: "Towards Multimodal Foundational Models for Brain Modelling"
+  short: FFBRAIN
+  host: "ECCV 2024<br>Milan, Italy<br>Sep 29 - Oct 4, 2024"
+  submission_link: TBD
   dates:
-    submission: June 24, 2024
-    decision: July 15, 2024
-    camera_ready: July 30, 2024
-    workshop: October 10, 2024
+    submission: July 15, 2024
+    decision: August 10, 2024
+    camera_ready: August 20, 2024
+    workshop: September 30, 2024
   organizers:
+    - name: Concetto 
+      surname: Spampinato 
+      affiliation: University of Catania
+      email: concetto.spampinato@unict.it
+      pic: img/concetto.jpg
+    - name: Nouria Lakhdar
+      surname: Ghazal 
+      affiliation: Mohammed V University of Rabat
+      email: 
+      pic: img/pic.jpg
+    - name: Andrea
+      surname: Tolias 
+      affiliation: University of Houston
+      email: 
+      pic: img/pic.jpg
+    - name: Jonathan 
+      surname: Xu 
+      affiliation: University of Waterloo
+      email: 
+      pic: img/pic.jpg
+    - name: Shanmuganathan 
+      surname: Raman 
+      affiliation: Indian Institute of Technology
+      email: 
+      pic: img/pic.jpg
     - name: Federica
       surname: Proietto Salanitri
       affiliation: University of Catania
       email: federica.proiettosalanitri@unict.it
       pic: img/federica.jpg
-    - name: Serestina
-      surname: Viriri
-      affiliation: University of KwaZulu-Natal
-      email: 
-      pic: img/serestina_viriri.jpg
-    - name: Ulas
-      surname: Bagci
-      affiliation: Northwestern University
+    - name: Matteo
+      surname: Pennisi
+      affiliation: Campus Bio Medico Rome
       email: 
       pic: img/pic.jpg
-    - name: Pallavi
-      surname: Tiwari
-      affiliation: University of Wisconsin-Madison
-      email: 
-      pic: img/pic.jpg
-    - name: Boqing
-      surname: Gong
-      affiliation: Google
-      email: 
-      pic: img/pic.jpg
-    - name: Concetto
-      surname: Spampinato
-      affiliation: University of Catania
-      email: concetto.spampinato@unict.it
-      pic: img/concetto.jpg
   pc:
   talks:
     - name: "TBA"
