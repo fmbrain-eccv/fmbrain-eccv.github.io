@@ -12,7 +12,7 @@ layout: default
 
 All submissions must comply with the following criteria:
 
-- **Page Limit**: <!--Submissions must not exceed 10 pages, including figures, tables, and text. An additional 2 pages are allowed for references only.-->
+- **Page Limit**: Submissions must not exceed 8 pages, including figures, tables, and text. An additional 2 pages are allowed for references only.
 - **Formatting Style**: 
 - **File Type**: Only Adobe Portable Document Format (PDF) will be accepted. Submissions in other file formats will be automatically rejected.
 
