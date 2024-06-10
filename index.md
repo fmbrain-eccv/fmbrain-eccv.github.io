@@ -14,14 +14,14 @@ This workshop aims to be a hub for scholars and professionals who are at the cut
 
 Expected submissions should cover, but are not limited to, the following topics:
 
-	- Contrastive Learning for Multimodal Brain Data Fusion:
-	- Self-Supervised Learning for Temporal Brain Dynamics:
-	- Unsupervised Learning for Structural and Functional Brain Network Construction:
-	- Weakly Supervised Learning for Brain Connectivity Analysis:
-	- Foundational Models for Classification and Predictive Modeling:
-	- Multimodal Brain Image Visualization with Advanced Learning Techniques:
-	- Incorporating Foundational Models in Registration, Segmentation, and Signal Processing:
-	- Validation Approaches and Benchmark Data Generation with Foundational Models:
-	- Clinical Applications of Foundational Models in Brain Diseases:
+- Contrastive Learning for Multimodal Brain Data Fusion:
+- Self-Supervised Learning for Temporal Brain Dynamics:
+- Unsupervised Learning for Structural and Functional Brain Network Construction:
+- Weakly Supervised Learning for Brain Connectivity Analysis:
+- Foundational Models for Classification and Predictive Modeling:
+- Multimodal Brain Image Visualization with Advanced Learning Techniques:
+- Incorporating Foundational Models in Registration, Segmentation, and Signal Processing:
+- Validation Approaches and Benchmark Data Generation with Foundational Models:
+- Clinical Applications of Foundational Models in Brain Diseases:
 
 
