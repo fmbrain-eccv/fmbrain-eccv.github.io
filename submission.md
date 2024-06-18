@@ -35,11 +35,15 @@ References to any supplementary material should be clearly indicated in the main
 ## Simultaneous Submission Policy
 In submitting to FM-BRAIN 2024, authors implicitly agree that no paper with substantially similar content is concurrently under review or will be submitted elsewhere before the conclusion of the FM-BRAIN 2024 review process.
 
+## Proceedings
+
+All accepted full contributed papers will appear in the ECCV2024 workshop proceedings. 
+
 <!--## Proceedings Publication
 The accepted papers of AIPAD 2024 will be published in the Lecture Notes in Computer Science (LNCS) series by Springer. This publication will ensure international dissemination and recognition of the authors' work.-->
 
 
-Additional information coming soon...
+<!-- Additional information coming soon...-->
 
 <!--
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
