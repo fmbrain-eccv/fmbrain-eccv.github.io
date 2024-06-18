@@ -1,11 +1,11 @@
-title: FFBRAIN Workshop
-description: FFBRAIN Workshop at ECCV 2024
+title: FM-BRAIN Workshop
+description: FM-BRAIN Workshop at ECCV 2024
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 workshop:
   name: "Towards Multimodal Foundational Models for Brain Modelling"
-  short: FFBRAIN
+  short: FM-BRAIN
   host: "ECCV 2024<br>Milan, Italy<br>Sep 29 - Oct 4, 2024"
   submission_link: TBD
   dates:
