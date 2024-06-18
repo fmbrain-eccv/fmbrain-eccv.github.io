@@ -6,21 +6,21 @@ layout: default
 
 ## Paper Submission
 
-<p>Papers must be submitted through CMT (link to be available soon). <!--({{ site.workshop.submission_link }})--></p>
+Papers must be submitted through CMT (link to be available soon). <!--({{ site.workshop.submission_link }})-->
 
 ## Formatting Your Manuscript
 
 All submissions must comply with the following criteria:
 
-- **Page Limit**: Submissions must not exceed 8 pages, including figures, tables, and text. An additional 2 pages are allowed for references only.
-- **Formatting Style**: 
+- **Page Limit**: Submissions must not exceed 8 pages for full papers, 4 papers for extended abstract, including figures, tables, and text. An additional 2 pages are allowed for references only.
+- **Formatting Style**: Submission follows the ECCV format (see the [ECCV website for format instruction](https://eccv.ecva.net/Conferences/2024/AuthorGuide))
 - **File Type**: Only Adobe Portable Document Format (PDF) will be accepted. Submissions in other file formats will be automatically rejected.
 
 
 <!-- The corresponding author must fill out and sign a Consent-to-Publish form on behalf of all co-authors, and the name on the copyright form should correspond with the name marked on the paper. No changes to authorship will be permitted after submission to Springer.-->
 
 ## Double-Blind Peer Review
-FFBRAIN 2024 follows a double-blind review process. Authors and reviewers will remain anonymous to each other. 
+FM-BRAIN 2024 follows a double-blind review process. Authors and reviewers will remain anonymous to each other. 
 <!--Authors must prepare their submissions according to the Anonymity guidelines of MICCAI to ensure the integrity of the double-blind review process. Non-anonymized submissions will be subject to immediate desk rejection-->
 
 <!-- ## Supplementary Material
@@ -33,7 +33,7 @@ Submission of supplementary material is optional and may include:
 References to any supplementary material should be clearly indicated in the main manuscript. Reviewers are not obligated to review supplementary materials.-->
 
 ## Simultaneous Submission Policy
-In submitting to FFBRAIN 2024, authors implicitly agree that no paper with substantially similar content is concurrently under review or will be submitted elsewhere before the conclusion of the FFBRAIN 2024 review process.
+In submitting to FM-BRAIN 2024, authors implicitly agree that no paper with substantially similar content is concurrently under review or will be submitted elsewhere before the conclusion of the FM-BRAIN 2024 review process.
 
 <!--## Proceedings Publication
 The accepted papers of AIPAD 2024 will be published in the Lecture Notes in Computer Science (LNCS) series by Springer. This publication will ensure international dissemination and recognition of the authors' work.-->
