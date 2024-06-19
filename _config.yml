@@ -7,7 +7,7 @@ workshop:
   name: "Towards Multimodal Foundational Models for Brain Modelling"
   short: FM-BRAIN
   host: "ECCV 2024<br>Milan, Italy<br>Sep 29 - Oct 4, 2024"
-  submission_link: TBD
+  submission_link: https://cmt3.research.microsoft.com/FMBRAIN2024/ 
   dates:
     submission: July 15, 2024
     decision: August 10, 2024
